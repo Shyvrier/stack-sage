@@ -203,3 +203,32 @@ WHERE PROT_User='<Administrateur>'
 
 ## Formules Excel
 Test ajout Baptiste
+
+Utiliser l'ergonomie d'excel pour gagner en confort de travail
+
+![image](https://user-images.githubusercontent.com/59794773/155738214-0d5c36af-dfd5-49e2-a12a-ccac5b45e197.png)
+
+![image](https://user-images.githubusercontent.com/59794773/155738376-895535d7-73ec-48ee-bfea-d338ae855e66.png)
+
+Concaténer des cellules, et avec espace
+
+Sans espace
+
+
+![image](https://user-images.githubusercontent.com/59794773/155738539-3c50552f-4285-4c2d-942f-02f43cf268c7.png)
+
+
+
+Avec espace
+
+
+![image](https://user-images.githubusercontent.com/59794773/155738552-3d52477a-3de0-4d51-be8c-b6b27b292727.png)
+
+
+
+![image](https://user-images.githubusercontent.com/59794773/155738517-01bf853a-1a18-4967-a59f-88fedd9d3297.png)
+
+Utiliser la recherche V
+
+![image](https://user-images.githubusercontent.com/59794773/155738608-c6b54a9e-5492-4700-a0c0-33fd5454aa14.png)
+
